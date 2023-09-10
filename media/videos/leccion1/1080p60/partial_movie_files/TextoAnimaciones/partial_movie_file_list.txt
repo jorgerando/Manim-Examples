@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/jorge/Escritorio/pruebas/media/videos/leccion1/1080p60/partial_movie_files/TextoAnimaciones/2902699114_562151501_223132457.mp4'
+file 'file:/home/jorge/Escritorio/pruebas/media/videos/leccion1/1080p60/partial_movie_files/TextoAnimaciones/3931933789_853183256_1380319113.mp4'
+file 'file:/home/jorge/Escritorio/pruebas/media/videos/leccion1/1080p60/partial_movie_files/TextoAnimaciones/3931933789_1076466279_631829896.mp4'
+file 'file:/home/jorge/Escritorio/pruebas/media/videos/leccion1/1080p60/partial_movie_files/TextoAnimaciones/3931933789_66936403_3520776700.mp4'
+file 'file:/home/jorge/Escritorio/pruebas/media/videos/leccion1/1080p60/partial_movie_files/TextoAnimaciones/3931933789_1076466279_1868044749.mp4'
+file 'file:/home/jorge/Escritorio/pruebas/media/videos/leccion1/1080p60/partial_movie_files/TextoAnimaciones/3931933789_752768131_3828168139.mp4'
+file 'file:/home/jorge/Escritorio/pruebas/media/videos/leccion1/1080p60/partial_movie_files/TextoAnimaciones/3931933789_244794568_2903370836.mp4'
+file 'file:/home/jorge/Escritorio/pruebas/media/videos/leccion1/1080p60/partial_movie_files/TextoAnimaciones/3931933789_3086793678_377508668.mp4'
+file 'file:/home/jorge/Escritorio/pruebas/media/videos/leccion1/1080p60/partial_movie_files/TextoAnimaciones/3931933789_244794568_2995295696.mp4'
+file 'file:/home/jorge/Escritorio/pruebas/media/videos/leccion1/1080p60/partial_movie_files/TextoAnimaciones/3931933789_3198102041_2905337337.mp4'
+file 'file:/home/jorge/Escritorio/pruebas/media/videos/leccion1/1080p60/partial_movie_files/TextoAnimaciones/3931933789_244794568_3429500008.mp4'
