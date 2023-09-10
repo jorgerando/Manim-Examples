@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/jorge/Escritorio/Manim-Examples/media/videos/Transformaciones/1080p60/partial_movie_files/FusionarElementos/2902699114_9177503_223132457.mp4'
+file 'file:/home/jorge/Escritorio/Manim-Examples/media/videos/Transformaciones/1080p60/partial_movie_files/FusionarElementos/3931933789_2171333760_1989345337.mp4'
+file 'file:/home/jorge/Escritorio/Manim-Examples/media/videos/Transformaciones/1080p60/partial_movie_files/FusionarElementos/3931933789_1076466279_1135264902.mp4'

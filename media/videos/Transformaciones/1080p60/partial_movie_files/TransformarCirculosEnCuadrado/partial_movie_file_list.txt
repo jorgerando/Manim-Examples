@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/jorge/Escritorio/Manim-Examples/media/videos/Transformaciones/1080p60/partial_movie_files/TransformarCirculosEnCuadrado/2902699114_923864213_223132457.mp4'
+file 'file:/home/jorge/Escritorio/Manim-Examples/media/videos/Transformaciones/1080p60/partial_movie_files/TransformarCirculosEnCuadrado/3931933789_1590692209_2604082790.mp4'
+file 'file:/home/jorge/Escritorio/Manim-Examples/media/videos/Transformaciones/1080p60/partial_movie_files/TransformarCirculosEnCuadrado/3931933789_1076466279_3306048812.mp4'
