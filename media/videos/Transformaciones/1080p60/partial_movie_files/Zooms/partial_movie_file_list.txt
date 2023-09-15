@@ -1,0 +1,11 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/jorge/Escritorio/Manim-Examples/media/videos/Transformaciones/1080p60/partial_movie_files/Zooms/3555894001_2320537102_103628875.mp4'
+file 'file:/home/jorge/Escritorio/Manim-Examples/media/videos/Transformaciones/1080p60/partial_movie_files/Zooms/3899612999_1076466279_3130693506.mp4'
+file 'file:/home/jorge/Escritorio/Manim-Examples/media/videos/Transformaciones/1080p60/partial_movie_files/Zooms/3899612999_3527355647_942007926.mp4'
+file 'file:/home/jorge/Escritorio/Manim-Examples/media/videos/Transformaciones/1080p60/partial_movie_files/Zooms/721683690_1076466279_2742405904.mp4'
+file 'file:/home/jorge/Escritorio/Manim-Examples/media/videos/Transformaciones/1080p60/partial_movie_files/Zooms/627205629_3188713514_2746686495.mp4'
+file 'file:/home/jorge/Escritorio/Manim-Examples/media/videos/Transformaciones/1080p60/partial_movie_files/Zooms/1526457933_1076466279_4258519039.mp4'
+file 'file:/home/jorge/Escritorio/Manim-Examples/media/videos/Transformaciones/1080p60/partial_movie_files/Zooms/1526457933_3527355647_2129863345.mp4'
+file 'file:/home/jorge/Escritorio/Manim-Examples/media/videos/Transformaciones/1080p60/partial_movie_files/Zooms/627205629_1076466279_3063563513.mp4'
+file 'file:/home/jorge/Escritorio/Manim-Examples/media/videos/Transformaciones/1080p60/partial_movie_files/Zooms/3360852716_1428493008_1803188580.mp4'
+file 'file:/home/jorge/Escritorio/Manim-Examples/media/videos/Transformaciones/1080p60/partial_movie_files/Zooms/2184662544_1076466279_3025722307.mp4'
